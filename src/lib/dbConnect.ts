@@ -1,5 +1,6 @@
 import mongoose from "mongoose";
 
+// type-safety
 type ConnectionObject = {
   isConnected?: boolean;
 };
